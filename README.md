@@ -1,10 +1,6 @@
 ---------------------------------Self driving car----------------------------------
-				                    -----by kalash bhagwat-----
 
-In this project, I have developed a convolutional neural network (CNN) based model for self driving car, inspired by Nvidia's research. I have trained and tested this model using the Udacity simulator. The model has been trained on a large dataset of images and steering angles collected from the simulator. During training, the model learns to predict the steering angle from the input images. I have also used data augmentation techniques to improve the robustness of the model.
-
-I have evaluated the performance of the model using Loss plot. The model has shown promising results in terms of its ability to navigate the car safely and accurately in different driving scenarios. This project requires a simulator to test and train the model.
-
+This is a CNN model based on Nvidia's research for self driving car which takes only front camera images as input and generates steering angles as output.
 
 Follow these steps to run the project:
 
