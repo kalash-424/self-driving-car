@@ -12,7 +12,3 @@ Follow these steps to run the project:
 
 4. Before executing test_model.py, open the simulator in autonomous mode to test the trained model. Then execute the test_model.py file.
 
-
-
-
-Thank you!
